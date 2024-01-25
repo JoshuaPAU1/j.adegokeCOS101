@@ -1,0 +1,8 @@
+Company: Honeywell Nigeria Plc
+Username: hone
+Password: honey123
+Time: 1906
+Shares: 34000000
+Liabilities: 9000000
+Percentage Leverage: 73.52941176470588%
+Leverage for Liability below 10,000,000: 919117.6470588236

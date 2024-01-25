@@ -1,0 +1,6 @@
+Company: Cadbury Nigeria Plc
+Username: cadb
+Password: ca12
+Time: 1965
+Shares: 15000000
+Liabilities: 5500000
